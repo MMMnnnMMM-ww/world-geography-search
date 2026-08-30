@@ -1,1 +1,3 @@
-console.log("Hello Geography");
+document.querySelector("button").onclick = function() {
+    console.log("Search clicked");
+};
